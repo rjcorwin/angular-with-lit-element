@@ -1,4 +1,5 @@
 import '@webcomponents/webcomponentsjs/webcomponents-loader.js';
+import '@webcomponents/webcomponentsjs/custom-elements-es5-adapter.js';
 import {LitElement, html} from '@polymer/lit-element';
 
 class MyElement extends LitElement {
